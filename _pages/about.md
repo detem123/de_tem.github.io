@@ -31,6 +31,9 @@ redirect_from:
 
 
 砚湖易办：[(https://bsdt.cdut.edu.cn/EIP/nonlogin/homePage.htm)]
+[(https://detem123.github.io/de_tem.github.io/) ]
+[这里输入链接描述](%28https://detem123.github.io/de_tem.github.io/%29)
+
 
 我的B站：[(https://www.zhihu.com/people/li-qi-ming-39-49)]
 我的抖音：[(https://www.douyin.com/user/self?from_tab_name=main%29)]
