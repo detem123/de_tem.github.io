@@ -31,10 +31,6 @@ redirect_from:
 
 
 砚湖易办：[(https://bsdt.cdut.edu.cn/EIP/nonlogin/homePage.htm)]
-https://bsdt.cdut.edu.cn/EIP/nonlogin/homePage.htm
-
-
 我的B站：[(https://www.zhihu.com/people/li-qi-ming-39-49)]
 我的抖音：[(https://www.douyin.com/user/self?from_tab_name=main%29)]
-
 我的知乎：[(https://www.zhihu.com/people/li-qi-ming-39-49%29)]
