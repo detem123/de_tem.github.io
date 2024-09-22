@@ -30,9 +30,9 @@ redirect_from:
 更用来缅怀我不羁的青春岁月啊！
 
 
-砚湖易办：[这里输入链接描述](https://bsdt.cdut.edu.cn/EIP/nonlogin/homePage.htm)
+砚湖易办：[(https://bsdt.cdut.edu.cn/EIP/nonlogin/homePage.htm)]
 
-我的B站：[这里输入链接描述](https://bsdt.cdut.edu.cn/EIP/nonlogin/homePage.htm)
-我的抖音：[这里输入链接描述](https://www.douyin.com/user/self?from_tab_name=main%29)
+我的B站：[(https://www.zhihu.com/people/li-qi-ming-39-49)]
+我的抖音：[(https://www.douyin.com/user/self?from_tab_name=main%29)]
 
-我的知乎：[这里输入链接描述](https://www.zhihu.com/people/li-qi-ming-39-49%29)
+我的知乎：[(https://www.zhihu.com/people/li-qi-ming-39-49%29)]
