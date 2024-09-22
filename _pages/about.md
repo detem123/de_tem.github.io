@@ -10,11 +10,7 @@ redirect_from:
 ****
 
 
-
-
-
-
-
+**我的第一篇Blog**
 
 > WriHELLO WORLD ！！！
 能来到这个网站看到我的第一篇Blog，怎么说呢？这既是我们之间的运气，又是我的荣幸hhh。
@@ -37,8 +33,7 @@ redirect_from:
 
 
 [砚湖易办](%28https://bsdt.cdut.edu.cn/EIP/nonlogin/homePage.htm%29)
-
+[(%28%28https://bsdt.cdut.edu.cn/EIP/nonlogin/homePage.htm%29%29)]
 [我的B站](%28https://space.bilibili.com/1553355526%29)
 [我的抖音](%28https://www.douyin.com/user/self?from_tab_name=main%29)
 [我的知乎](%28https://www.zhihu.com/people/li-qi-ming-39-49%29)
-
