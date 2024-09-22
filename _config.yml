@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-CHINA"
 title                    : "冰糖葫芦不吃皮"
 title_separator          : "-"
 name                     : &name "detem"
@@ -25,7 +25,7 @@ author:
   name             : "Ltianming"
   pronouns         : # example: "she/her"  
   bio              : "Never give up!"
-  location         : "Earth"
+  location         : "Earth.ChengDu"
   employer         : "Chengdu University of Technology"
   uri              : # URL
   email            : "1524001843@qq.com" 
