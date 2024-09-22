@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "我的第一篇Blog"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-HELLO WORLD ！！！
-能来到这个网站看到我的第一篇Blog，怎么说呢？这既是我们之间的缘分，又是我的荣幸hhh。
+
+****
+
+> WriHELLO WORLD ！！！
+能来到这个网站看到我的第一篇Blog，怎么说呢？这既是我们之间的运气，又是我的荣幸hhh。
 回想这两天被这个Blog已经折磨得不成人形了，应该是在前天又或许是大前天我看到了别人的博客。
 我突然灵感一现想了想我能不能搞个自己的Blog，于是说干就干。
 我打开B站搜索“个人博客”
@@ -24,3 +27,11 @@ HELLO WORLD ！！！
 最后，
 此博客用来经历我的大学生活
 更用来缅怀我不羁的青春岁月啊！
+
+
+我的B站：
+[(https://space.bilibili.com/1553355526)]
+我的抖音：
+[(https://www.douyin.com/user/self?from_tab_name=main)]
+我的知乎：
+[(https://www.zhihu.com/people/li-qi-ming-39-49)]
