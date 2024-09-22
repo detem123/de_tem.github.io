@@ -31,14 +31,17 @@ redirect_from:
 最后，
 此博客用来经历我的大学生活
 更用来缅怀我不羁的青春岁月啊！
-![输入图片说明](/imgs/2024-09-22/VYflOI5Um780rPy4.jpeg)
 
 
-砚湖易办：[(https://bsdt.cdut.edu.cn/EIP/nonlogin/homePage.htm)](https://bsdt.cdut.edu.cn/EIP/nonlogin/homePage.htm)
 
-我的B站：(https://bsdt.cdut.edu.cn/EIP/nonlogin/homePage.htm)
-[(https://space.bilibili.com/1553355526)]
+砚湖易办：
+(https://bsdt.cdut.edu.cn/EIP/nonlogin/homePage.htm)
+
+我的B站：
+(https://space.bilibili.com/1553355526)
+
 我的抖音：
-[(https://www.douyin.com/user/self?from_tab_name=main)]
+(https://www.douyin.com/user/self?from_tab_name=main)
+
 我的知乎：
-[(https://www.zhihu.com/people/li-qi-ming-39-49)]
+(https://www.zhihu.com/people/li-qi-ming-39-49)
