@@ -12,7 +12,7 @@ title                    : "冰糖葫芦不吃皮"
 title_separator          : "-"
 name                     : &name "detem"
 description              : &description "理工男"
-url                      : https://s21.ax1x.com/2024/09/24/pAQlua8.png"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "de_tem.github.io"
 
@@ -21,7 +21,7 @@ repository               : "de_tem.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : " Image 1725271900982.png "
+  avatar           : "https://s21.ax1x.com/2024/09/22/pAMbEod.jpg"
   name             : "Ltianming"
   pronouns         : # example: "she/her"  
   bio              : "Never give up!"
